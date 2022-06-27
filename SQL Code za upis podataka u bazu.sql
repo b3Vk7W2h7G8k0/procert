@@ -1,4 +1,4 @@
----Insert/Upis podataka u bazu ProbnaBaza1 za Intralot_Adria
+---Insert/Upis podataka u bazu ProbnaBaza1
 
 use ProbnaBaza1
 go
