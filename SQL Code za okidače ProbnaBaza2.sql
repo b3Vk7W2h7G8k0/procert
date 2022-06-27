@@ -1,4 +1,4 @@
----Okidači za bazu podataka Intralot_Adria
+---Okidači za bazu podataka 
 
 
 ---Okidači za unos podataka u bazu
