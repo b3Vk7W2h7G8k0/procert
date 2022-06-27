@@ -1,4 +1,4 @@
----Kreiranje pogleda za bazu podataka Intralot_Adria 09.04.2021 Petak 20:11:00h
+---Kreiranje pogleda za bazu podataka ---09.04.2021 Petak 20:11:00h
 
 ---Kreiranje pogleda za krajnju jednostavniju upotrebu
 
