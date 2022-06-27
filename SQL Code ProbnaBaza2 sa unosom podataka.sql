@@ -1,4 +1,4 @@
----Izrada baze podataka za poduzeće Intralot_Adria 09.04.2021 Petak 20:08:00h
+---Izrada baze podataka --- 09.04.2021 Petak 20:08:00h
 
 create database ProbnaBaza2
 go
